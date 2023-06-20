@@ -85,13 +85,13 @@
 		</ul>
 	</div>
 	<div class="navbar-end">
-		<a href="" class="btn btn-primary gap-2"
+		<a href="tel:+1-218-454-9090" class="btn btn-primary gap-2"
 			><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24"
 				><path
 					fill="currentColor"
 					d="M19.95 21q-3.225 0-6.287-1.425t-5.425-3.8q-2.363-2.375-3.8-5.438T3 4.05v-.525Q3 3.25 3.05 3H8.9l.925 5.025l-2.85 2.875q1.05 1.8 2.638 3.375T13.1 17l2.9-2.9l5 1v5.85q-.25.025-.525.038T19.95 21Z"
 				/></svg
-			>(218) 454-0850</a
+			>(218) 454-9090</a
 		>
 	</div>
 </nav>
@@ -111,13 +111,13 @@
 				Velit beatae necessitatibus tempore laboriosam vitae sint?
 			</p>
 			<div>
-				<a href="" class="btn btn-primary shadow-lg gap-2"
+				<a href="tel:+1-218-454-9090" class="btn btn-primary shadow-lg gap-2"
 					><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24"
 						><path
 							fill="currentColor"
 							d="M19.95 21q-3.225 0-6.287-1.425t-5.425-3.8q-2.363-2.375-3.8-5.438T3 4.05v-.525Q3 3.25 3.05 3H8.9l.925 5.025l-2.85 2.875q1.05 1.8 2.638 3.375T13.1 17l2.9-2.9l5 1v5.85q-.25.025-.525.038T19.95 21Z"
 						/></svg
-					>(218) 454-0850</a
+					>(218) 454-9090</a
 				>
 			</div>
 		</div>
@@ -181,17 +181,19 @@
 >
 	<div class="w-full h-full p-8 flex flex-col justify-center items-center bg-black bg-opacity-60">
 		<h2 class="text-4xl lg:text-5xl text-white mb-4">Nail Studio</h2>
-		<div class="h-[2px] w-24 bg-primary mb-4" />
-		<p class="text-white text-lg mb-4">
+		<div class="h-[2px] w-24 bg-primary mb-3" />
+		<p class="text-white text-lg mb-6">
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, nam!
 		</p>
-		<a href="" class="btn btn-primary gap-2"
+		<a
+			href="tel:+1-218-454-9090"
+			class="btn btn-primary gap-2 border-solid border-2 border-primary-content hover:border-primary-content"
 			><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24"
 				><path
 					fill="currentColor"
 					d="M19.95 21q-3.225 0-6.287-1.425t-5.425-3.8q-2.363-2.375-3.8-5.438T3 4.05v-.525Q3 3.25 3.05 3H8.9l.925 5.025l-2.85 2.875q1.05 1.8 2.638 3.375T13.1 17l2.9-2.9l5 1v5.85q-.25.025-.525.038T19.95 21Z"
 				/></svg
-			>(218) 454-0850</a
+			>(218) 454-9090</a
 		>
 	</div>
 </section>
@@ -220,7 +222,7 @@
 			class="flex flex-col lg:flex-row justify-center items-center w-fit mx-auto rounded overflow-hidden shadow-lg"
 		>
 			<iframe
-				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2754.1073657246034!2d-94.2475993490378!3d46.34741348199371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b6bdc5d9952c29%3A0xce418acd30c1303b!2sDN%20Nail%20and%20Spa!5e0!3m2!1svi!2sus!4v1679610821639!5m2!1svi!2sus"
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.5912684263985!2d-94.2214820113784!3d46.35765589659298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b6bc217851d23b%3A0x1ebb78e6cc8f172e!2s408%20W%20Washington%20St%2C%20Brainerd%2C%20MN%2056401!5e0!3m2!1sen!2sus!4v1687243639951!5m2!1sen!2sus"
 				class="sm:w-112 sm:h-128 hidden lg:block"
 				style="border:0;"
 				allowfullscreen=""
@@ -269,9 +271,14 @@
 <footer class="footer p-10 bg-base-200">
 	<div>
 		<span class="footer-title mb-0">Address</span>
-		<a class="link link-hover mb-2">13508 Elmwood Drive Suite 1 Baxter, MN 56425 USA</a>
+		<a
+			href="https://www.google.com/maps/place/408+W+Washington+St,+Brainerd,+MN+56401/@46.3576559,-94.221482,17z/data=!3m1!4b1!4m6!3m5!1s0x52b6bc217851d23b:0x1ebb78e6cc8f172e!8m2!3d46.357656!4d-94.2166111!16s%2Fg%2F11trrvrtl1?entry=ttu"
+			target="_blank"
+			rel="noreferrer"
+			class="link link-hover mb-2">408 West Washington St, Brainerd, MN 56401</a
+		>
 		<span class="footer-title mb-0">Contact number</span>
-		<a class="link link-hover">(218) 454-0850</a>
+		<a href="tel:+1-218-454-9090" class="link link-hover">(218) 454-9090</a>
 	</div>
 	<div>
 		<span class="footer-title">Open hours</span>

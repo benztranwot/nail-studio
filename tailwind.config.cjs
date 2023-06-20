@@ -16,7 +16,7 @@ module.exports = {
 			{
 				corporate: {
 					...require('daisyui/src/colors/themes')['[data-theme=corporate]'],
-					primary: '#FD1C79',
+					primary: '#555',
 					'primary-content': '#FFF',
 					'base-200': '#fafafa'
 				}
